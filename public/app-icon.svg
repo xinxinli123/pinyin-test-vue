@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">亲子陪学图标</title>
+  <desc id="desc">一本打开的学习书，上方有小星星和拼音字母。</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" x2="448" y1="56" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff4b8"/>
+      <stop offset="1" stop-color="#c9f0d8"/>
+    </linearGradient>
+    <linearGradient id="book" x1="132" x2="388" y1="222" y2="404" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f2f9ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="140" cy="126" r="34" fill="#ffcf5a"/>
+  <circle cx="372" cy="126" r="34" fill="#ffcf5a"/>
+  <path fill="#1f7a4a" d="M103 214c0-28 23-51 51-51h66c21 0 40 9 53 23 13-14 32-23 53-23h32c28 0 51 23 51 51v184c0 11-9 20-20 20h-56c-28 0-55 9-77 26-22-17-49-26-77-26h-76c-11 0-20-9-20-20V214Z"/>
+  <path fill="url(#book)" d="M123 215c0-17 14-31 31-31h66c22 0 41 13 50 32v189c-16-8-34-13-53-13h-94V215Zm266 177h-56c-19 0-37 5-53 13V216c9-19 28-32 50-32h28c17 0 31 14 31 31v177Z"/>
+  <path fill="#1f7a4a" d="M158 246h72v24h-72v-24Zm0 54h78v24h-78v-24Zm124-44c0-20 16-36 36-36h17c20 0 36 16 36 36v76h-31v-70c0-8-6-14-14-14s-14 6-14 14v70h-30v-76Z"/>
+  <path fill="#ff8b4a" d="m257 78 11 24 26 3-19 18 5 26-23-13-23 13 5-26-19-18 26-3 11-24Z"/>
+</svg>

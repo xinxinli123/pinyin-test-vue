@@ -1,0 +1,105 @@
+熊猫,xióng māo,https://example.com/images/panda.jpg
+老虎,lǎo hǔ,https://example.com/images/tiger.jpg
+大象,dà xiàng,https://example.com/images/elephant.jpg
+长颈鹿,cháng jǐng lù,https://example.com/images/giraffe.jpg
+狮子,shī zi,https://example.com/images/lion.jpg
+斑马,bān mǎ,https://example.com/images/zebra.jpg
+袋鼠,dài shǔ,https://example.com/images/kangaroo.jpg
+企鹅,qǐ é,https://example.com/images/penguin.jpg
+猴子,hóu zi,https://example.com/images/monkey.jpg
+河马,hé mǎ,https://example.com/images/hippo.jpg
+犀牛,xī niú,https://example.com/images/rhino.jpg
+鳄鱼,è yú,https://example.com/images/crocodile.jpg
+狐狸,hú li,https://example.com/images/fox.jpg
+狼,láng,https://example.com/images/wolf.jpg
+熊,xióng,https://example.com/images/bear.jpg
+鹿,lù,https://example.com/images/deer.jpg
+兔子,tù zi,https://example.com/images/rabbit.jpg
+松鼠,sōng shǔ,https://example.com/images/squirrel.jpg
+考拉,kǎo lā,https://example.com/images/koala.jpg
+海豚,hǎi tún,https://example.com/images/dolphin.jpg
+鲸鱼,jīng yú,https://example.com/images/whale.jpg
+鲨鱼,shā yú,https://example.com/images/shark.jpg
+海豹,hǎi bào,https://example.com/images/seal.jpg
+孔雀,kǒng què,https://example.com/images/peacock.jpg
+鹦鹉,yīng wǔ,https://example.com/images/parrot.jpg
+猫头鹰,māo tóu yīng,https://example.com/images/owl.jpg
+鹰,yīng,https://example.com/images/eagle.jpg
+鸽子,gē zi,https://example.com/images/pigeon.jpg
+天鹅,tiān é,https://example.com/images/swan.jpg
+鸭子,yā zi,https://example.com/images/duck.jpg
+鸡,jī,https://example.com/images/chicken.jpg
+猪,zhū,https://example.com/images/pig.jpg
+牛,niú,https://example.com/images/cow.jpg
+羊,yáng,https://example.com/images/sheep.jpg
+马,mǎ,https://example.com/images/horse.jpg
+狗,gǒu,https://example.com/images/dog.jpg
+猫,māo,https://example.com/images/cat.jpg
+老鼠,lǎo shǔ,https://example.com/images/mouse.jpg
+蛇,shé,https://example.com/images/snake.jpg
+青蛙,qīng wā,https://example.com/images/frog.jpg
+乌龟,wū guī,https://example.com/images/turtle.jpg
+蝴蝶,hú dié,https://example.com/images/butterfly.jpg
+蜜蜂,mì fēng,https://example.com/images/bee.jpg
+蚂蚁,mǎ yǐ,https://example.com/images/ant.jpg
+蜘蛛,zhī zhū,https://example.com/images/spider.jpg
+蜻蜓,qīng tíng,https://example.com/images/dragonfly.jpg
+萤火虫,yíng huǒ chóng,https://example.com/images/firefly.jpg
+金鱼,jīn yú,https://example.com/images/goldfish.jpg
+海马,hǎi mǎ,https://example.com/images/seahorse.jpg
+章鱼,zhāng yú,https://example.com/images/octopus.jpg
+海星,hǎi xīng,https://example.com/images/starfish.jpg
+水母,shuǐ mǔ,https://example.com/images/jellyfish.jpg
+螃蟹,páng xiè,https://example.com/images/crab.jpg
+龙虾,lóng xiā,https://example.com/images/lobster.jpg
+海龟,hǎi guī,https://example.com/images/turtle.jpg
+海鸥,hǎi ōu,https://example.com/images/seagull.jpg
+信天翁,xìn tiān wēng,https://example.com/images/albatross.jpg
+鸵鸟,tuó niǎo,https://example.com/images/ostrich.jpg
+火烈鸟,huǒ liè niǎo,https://example.com/images/flamingo.jpg
+犀鸟,xī niǎo,https://example.com/images/hornbill.jpg
+秃鹫,tū jiù,https://example.com/images/vulture.jpg
+蝙蝠,biān fú,https://example.com/images/bat.jpg
+刺猬,cì wei,https://example.com/images/hedgehog.jpg
+穿山甲,chuān shān jiǎ,https://example.com/images/pangolin.jpg
+树懒,shù lǎn,https://example.com/images/sloth.jpg
+犰狳,qiú yú,https://example.com/images/armadillo.jpg
+水獭,shuǐ tǎ,https://example.com/images/otter.jpg
+海狸,hǎi lí,https://example.com/images/beaver.jpg
+鼹鼠,yǎn shǔ,https://example.com/images/mole.jpg
+豪猪,háo zhū,https://example.com/images/porcupine.jpg
+羚羊,líng yáng,https://example.com/images/antelope.jpg
+麋鹿,mí lù,https://example.com/images/elk.jpg
+驯鹿,xùn lù,https://example.com/images/reindeer.jpg
+野牛,yě niú,https://example.com/images/buffalo.jpg
+骆驼,luò tuo,https://example.com/images/camel.jpg
+斑羚,bān líng,https://example.com/images/gazelle.jpg
+黑猩猩,hēi xīng xīng,https://example.com/images/chimpanzee.jpg
+大猩猩,dà xīng xīng,https://example.com/images/gorilla.jpg
+狒狒,fèi fèi,https://example.com/images/baboon.jpg
+狐猴,hú hóu,https://example.com/images/lemur.jpg
+树袋熊,shù dài xióng,https://example.com/images/koala.jpg
+袋熊,dài xióng,https://example.com/images/wombat.jpg
+鸭嘴兽,yā zuǐ shòu,https://example.com/images/platypus.jpg
+食蚁兽,shí yǐ shòu,https://example.com/images/anteater.jpg
+犰狳,qiú yú,https://example.com/images/armadillo.jpg
+海象,hǎi xiàng,https://example.com/images/walrus.jpg
+海狮,hǎi shī,https://example.com/images/sealion.jpg
+海牛,hǎi niú,https://example.com/images/manatee.jpg
+儒艮,rú gèn,https://example.com/images/dugong.jpg
+海獭,hǎi tǎ,https://example.com/images/otter.jpg
+海狗,hǎi gǒu,https://example.com/images/furseal.jpg
+海豚,hǎi tún,https://example.com/images/dolphin.jpg
+虎鲸,hǔ jīng,https://example.com/images/killerwhale.jpg
+抹香鲸,mǒ xiāng jīng,https://example.com/images/spermwhale.jpg
+蓝鲸,lán jīng,https://example.com/images/bluewhale.jpg
+座头鲸,zuò tóu jīng,https://example.com/images/humpbackwhale.jpg
+白鲸,bái jīng,https://example.com/images/belugawhale.jpg
+海豹,hǎi bào,https://example.com/images/seal.jpg
+海象,hǎi xiàng,https://example.com/images/walrus.jpg
+海狮,hǎi shī,https://example.com/images/sealion.jpg
+海牛,hǎi niú,https://example.com/images/manatee.jpg
+儒艮,rú gèn,https://example.com/images/dugong.jpg
+海獭,hǎi tǎ,https://example.com/images/otter.jpg
+海狗,hǎi gǒu,https://example.com/images/furseal.jpg
+海豚,hǎi tún,https://example.com/images/dolphin.jpg
